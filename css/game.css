@@ -1,0 +1,10 @@
+.background    { background: rgb(52, 166, 251);
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.quicksand          { background: rgb(140, 140, 100); }
+.wall          { background: green;   }
+.floater  { background: yellow;   }
+.game {
+  position: relative;
+}
